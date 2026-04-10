@@ -1,3 +1,36 @@
+<img width="430" height="302" alt="AD 3" src="https://github.com/user-attachments/assets/92f35248-1aa0-4703-8181-ae4adfaab4a4" />
+<img width="531" height="315" alt="ad4" src="https://github.com/user-attachments/assets/9f9c561b-96be-43a1-994c-29a7b1db0322" />
+<img width="490" height="364" alt="ad5" src="https://github.com/user-attachments/assets/8e862f4e-edcb-49ad-a1ed-8ce043d98db0" />
+<img width="518" height="385" alt="ad6" src="https://github.com/user-attachments/assets/fde5aecd-1654-4aec-90a1-ec7dff2e3348" />
+<img width="557" height="354" alt="ad7" src="https://github.com/user-attachments/assets/555a0fce-fa4e-4d92-807b-b5e5a015e579" />
+<img width="494" height="417" alt="ad8" src="https://github.com/user-attachments/assets/94cd13c0-01ac-48c3-b059-dc52c5d90bca" />
+<img width="514" height="351" alt="ad9" src="https://github.com/user-attachments/assets/5549ccf9-0619-45f6-8ba1-0d74d68d1cf9" />
+<img width="360" height="410" alt="ad10" src="https://github.com/user-attachments/assets/b6d923cd-3783-49fc-a531-b49038bc8cc5" />
+<img width="404" height="491" alt="ad11" src="https://github.com/user-attachments/assets/d9501837-4fa8-4a56-95bb-129fd4f45158" />
+<img width="516" height="324" alt="ad12" src="https://github.com/user-attachments/assets/49185b63-27fd-4485-bd6b-58408d874b62" />
+<img width="538" height="311" alt="ad13" src="https://github.com/user-attachments/assets/42415fbe-287b-48bd-8518-250d7f27d3fa" />
+<img width="434" height="498" alt="ad14" src="https://github.com/user-attachments/assets/1497584c-fa2b-41b0-bbfb-2e30d1b46148" />
+<img width="410" height="472" alt="ad15" src="https://github.com/user-attachments/assets/5c07fd17-88f5-4e45-9e83-5753541b0b13" />
+<img width="605" height="396" alt="ad16" src="https://github.com/user-attachments/assets/8d3df6a0-a364-4fe7-b0dc-ce2a5847aa73" />
+<img width="475" height="388" alt="ad17" src="https://github.com/user-attachments/assets/3798f247-0cd2-4143-9ef2-0fa900030bab" />
+<img width="566" height="370" alt="ad18" src="https://github.com/user-attachments/assets/77ef0d08-7557-4edf-9e93-118731148179" />
+<img width="595" height="287" alt="ad19" src="https://github.com/user-attachments/assets/22a27b6d-725b-4017-a11b-9efcf96e86cb" />
+<img width="655" height="182" alt="ad20" src="https://github.com/user-attachments/assets/04902a23-3500-42b4-8365-ddf37d3277d5" />
+<img width="481" height="310" alt="ad21" src="https://github.com/user-attachments/assets/4fa18e6c-736a-4264-960b-afc52c49dcc4" />
+<img width="570" height="360" alt="ad22" src="https://github.com/user-attachments/assets/87958f54-bc3a-4185-8c75-d171148e4b4b" />
+<img width="560" height="244" alt="ad23" src="https://github.com/user-attachments/assets/0c4de85b-11f3-46a0-809e-1088d4f01569" />
+<img width="522" height="328" alt="ad24" src="https://github.com/user-attachments/assets/f3a95b78-1a58-414f-94b8-bda09c30dea0" />
+<img width="434" height="530" alt="ad25" src="https://github.com/user-attachments/assets/53c4d7a5-6148-4777-b9a7-43a3c5320d45" />
+<img width="640" height="410" alt="ad26" src="https://github.com/user-attachments/assets/2106a6fd-103f-4490-94db-cd0c1e39acb9" />
+<img width="677" height="266" alt="ad27" src="https://github.com/user-attachments/assets/aa0816f0-acce-4ac7-b61e-d1de00d660b8" />
+<img width="429" height="450" alt="ad28" src="https://github.com/user-attachments/assets/51741864-7542-49f5-997b-a5806ceabb2d" />
+<img width="488" height="378" alt="ad29" src="https://github.com/user-attachments/assets/b98308ac-943d-44d1-abd8-6aee9bef9ffc" />
+<img width="543" height="199" alt="ad30" src="https://github.com/user-attachments/assets/0572123a-a3f0-4594-a939-b7a6ab2a5b19" />
+<img width="332" height="413" alt="ad31" src="https://github.com/user-attachments/assets/857fcfb7-b30f-4ba9-9ce2-479244cb9103" />
+<img width="436" height="572" alt="ad32" src="https://github.com/user-attachments/assets/f7db16d5-82bc-47f3-8ff0-fecfdb1576aa" />
+<img width="340" height="118" alt="ad33" src="https://github.com/user-attachments/assets/b0c6d75d-10e6-4454-bdc2-b6e56f0e1934" />
+<img width="483" height="326" alt="AD1" src="https://github.com/user-attachments/assets/ae9f9314-bac6-4822-91ba-2c1c50fd54cc" />
+<img width="488" height="286" alt="AD2" src="https://github.com/user-attachments/assets/3fa561fc-784e-414d-961f-13c9836a238e" />
 # Active Directory — Shared Drives and Security Groups
 
 **Environment:** Windows Server 2016 | VirtualBox | On-Premises Domain Controller  
