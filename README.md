@@ -12,7 +12,7 @@ IT administrators need a way to manage employees, computers, and security settin
 
 A domain controller is the brain of a company's computer network. It keeps track of every user account, every computer, and every rule about who is allowed to do what. When you log into your work computer and it asks for your username and password, it is checking with the domain controller to verify your identity. When your manager tells IT to give you access to a shared folder, the domain controller handles that too.
 
-For this project, I set up Windows Server 2016 inside a virtual machine using VirtualBox and configured it as a domain controller to simulate how a real company IT environment works. My goal was to create shared drives that employees can access from their own computers and use security groups to control who gets in.
+For this project, I set up Windows Server 2016 inside a virtual machine using VirtualBox and configured it as a domain controller to simulate how a real company's IT environment works. My goal was to create shared drives that employees can access from their own computers and use security groups to control who gets in.
 
 ---
 
@@ -20,7 +20,9 @@ For this project, I set up Windows Server 2016 inside a virtual machine using Vi
 
 Server Manager is the control panel for Windows Server. I opened it and clicked on **File and Storage Services** in the left sidebar, then navigated to **Shares**.
 
-![Server Manager Dashboard](screenshots/ad02.png)
+
+
+
 
 ![File and Storage Services - Shares](screenshots/ad03.png)
 
