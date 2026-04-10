@@ -24,6 +24,7 @@ Server Manager is the control panel for Windows Server. I opened it and clicked 
 
 
 
+
 ![File and Storage Services - Shares](screenshots/ad03.png)
 
 ---
